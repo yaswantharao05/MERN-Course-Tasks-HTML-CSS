@@ -1,0 +1,40 @@
+.vetnavbar{
+  /* background-color: red; */
+  border: 1.25px solid black;
+  width: 250px;
+  padding: 10px;
+  display:inline-block;
+}
+.pvert{
+  background-color: powderblue;
+  /* height: 45px; */
+  width: 210px;
+  padding: 20px;
+  font-weight:bolder;
+  font-size: x-large;
+  color: blue;
+  margin: 0;
+}
+.pvert:hover{
+  color: white;
+  background-color: gold;
+}
+
+.horinavbar{
+  border: 1.25px solid black;
+  width: 584px;
+  padding: 10px;
+}
+.tdhori{
+  background-color: #d8d4d4;
+  color: blue;
+  display: inline-block;
+  padding: 20px 35px;
+  border-left: 1px solid blue;
+  /* border-top: 0px solid white; */
+  /* margin: 0; */
+}
+.tdhori:hover{
+  background-color: #848484;
+  color: white;
+}
